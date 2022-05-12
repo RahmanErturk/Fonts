@@ -1,0 +1,77 @@
+body {
+    padding: 4rem;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: grey;
+    width: 100%;
+}
+h1 {
+    padding-left: 10rem;
+    color: white;
+}
+section {
+    padding-top: 2rem;
+}
+section p:nth-child(1) {
+    font-family: 'Fredoka One', cursive;
+}
+section p:nth-child(2) {
+    font-family: 'Indie Flower', cursive;
+}
+section p:nth-child(3) {
+    font-family: 'Josefin Sans', sans-serif;
+}
+section p:nth-child(4) {
+    font-family: 'Koulen', cursive;
+}
+section p:nth-child(5) {
+    font-family: 'Macondo', cursive;
+}
+section p:nth-child(6) {
+    font-family: 'Major Mono Display', monospace;
+}
+section p:nth-child(7) {
+    font-family: 'Monoton', cursive
+}
+section p:nth-child(8) {
+    font-family: 'Nova Mono', monospace;
+}
+section p:nth-child(9) {
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+section p:nth-child(10) {
+    font-family: 'Pacifico', cursive;
+}
+section p:nth-child(11) {
+    font-family: 'Playfair Display', serif;
+}
+section p:nth-child(12) {
+    font-family: 'Raleway', sans-serif;
+}
+section p:nth-child(13) {
+    font-family: 'Roboto', sans-serif;
+}
+section p:nth-child(14) {
+    font-family: 'Rock Salt', cursive;
+}
+section p:nth-child(15) {
+    font-family: 'Satisfy', cursive;
+}
+section p:nth-child(16) {
+    font-family: 'Special Elite', cursive;
+}
+section p:nth-child(17) {
+    font-family: 'Ubuntu', sans-serif;
+}
+section p:nth-child(18) {
+    font-family: 'VT323', monospace;
+}
+section p:nth-child(19) {
+    font-family: 'Water Brush', cursive;
+}
+section p:nth-child(20) {
+    font-family: 'Zen Loop', cursive;
+}
